@@ -6,8 +6,8 @@
 5. Navigate to parent folder of your new project
 6. `openfl create custom:project ProjectName`
 
-##Caveats
+## Caveats
 In case there will be a haxelib project named `custom`, use a different name
 
-##Roadmap
+## Roadmap
 `openfl create custom:User/Template ProjectName` which will download a `https://github.com/User/Template.git` would be really nice, but that would require changes in lime core.

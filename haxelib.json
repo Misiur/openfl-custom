@@ -8,7 +8,7 @@
     "project",
     "template"
   ],
-  "description": "Fork this respository, change the contensts os `assets/templates/project`, use `haxelib dev openfl-custom $clonedGitPath`, and change however you want. Usage: `openfl create openfl-custom:project $ProjectName`",
+  "description": "Fork this respository, change the contents of `assets/templates/project`, use `haxelib dev openfl-custom $clonedGitPath`, and change however you want. Usage: `openfl create openfl-custom:project $ProjectName`",
   "version": "0.0.1",
   "releasenote": "Initial release, everything is working correctly.",
   "contributors": [
